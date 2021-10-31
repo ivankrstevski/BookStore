@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business.Abstractions\Business.Abstractions.csproj" />
+    <ProjectReference Include="..\Business.Mappers\Business.Mappers.csproj" />
+    <ProjectReference Include="..\Business.Models\Business.Models.csproj" />
+    <ProjectReference Include="..\Data.EF\Data.EF.csproj" />
+  </ItemGroup>
+
+</Project>
