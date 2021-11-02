@@ -1,5 +1,10 @@
 {
   "bookMarket": "Book Market",
   "author": "Author",
-  "book": "Book"
+  "book": "Book",
+  "firstName": "First Name",
+  "firstNamePlaceholder": "Enter Author's first name",
+  "lastName": "Last Name",
+  "lastNamePlaceholder": "Enter Author's last name",
+  "save": "Save"
 }
